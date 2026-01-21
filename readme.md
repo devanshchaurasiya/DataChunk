@@ -1,1 +1,1 @@
-This is AI project
+Patient Report Summarization GenAI project
